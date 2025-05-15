@@ -45,5 +45,5 @@ st.metric(label="Liquidity Ratio", value=f"{round(prediction, 4)}")
 st.markdown("---")
 st.markdown("""
 Developed with ❤️ using Streamlit  
-🔗 [GitHub Repository](https://github.com/your-repo) • 🧠 Powered by Machine Learning  
+🔗 [GitHub Repository](https://github.com/karan0991/ML_project.git) • 🧠 Powered by Machine Learning  
 """)
